@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "69+d1phdIjGeUhnVTzBNkLk8mwGTk7Xx0d3lH1rZSQbRSHzF5xZJufUr3NfBQu4uSJbDksPHe3gBMdNmvvorIw==",
+  "success": true,
+  "projectFilePath": "/Users/licjapodaca/repos/dotnet/webapi-csrf/jmam.api.csrf.csproj",
+  "expectedPackageFiles": [
+    "/Users/licjapodaca/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/licjapodaca/.dotnet/store/|arch|/|tfm|",
+      "/Users/licjapodaca/.nuget/packages"
+    ]
+  }
+}
