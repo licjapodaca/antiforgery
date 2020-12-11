@@ -24,7 +24,7 @@ namespace jmam.api.csrf
 			// Agregando CSRF
 			services.AddAntiforgery(options =>
 			{
-				options.Cookie.Expiration = TimeSpan.FromSeconds(20);
+				//options.Cookie.Expiration = TimeSpan.FromSeconds(20);
 				options.Cookie.HttpOnly = true;
 				options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
 				options.Cookie.SameSite = SameSiteMode.Strict;
